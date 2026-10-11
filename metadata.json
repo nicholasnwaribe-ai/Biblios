@@ -1,0 +1,6 @@
+{
+  "name": "Biblios",
+  "description": "A clean, elegant Bible reader supporting NIV, NKJV, KJV, and Good News translations, chapter and verse selection, highlighting, sharing, and custom passage collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
